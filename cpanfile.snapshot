@@ -1,0 +1,15 @@
+# carton snapshot format: version 1.0
+DISTRIBUTIONS
+  Curses-1.46
+    pathname: G/GI/GIRAFFED/Curses-1.46.tar.gz
+    provides:
+      Curses 1.46
+      Curses::Field 1.46
+      Curses::Form 1.46
+      Curses::Item 1.46
+      Curses::Menu 1.46
+      Curses::Panel 1.46
+      Curses::Screen 1.46
+      Curses::Window 1.46
+    requirements:
+      ExtUtils::MakeMaker 0
